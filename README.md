@@ -1,2 +1,6 @@
 # hello-world
-just another repository?
+
+I am Erin!
+
+I have no clue how to code but I have a goal to learn this summer
+with Free Code Camp.
